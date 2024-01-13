@@ -1,0 +1,33 @@
+[All]{
+    Drag the window by draging above the white line;
+    The hour LCD display is based on the system hour;
+
+    Please don't close the app while downloading or converting;
+}
+
+[Music player]{
+    Select a song by clicking on his name in the list;
+    Pause or Resume by clicking the "Pause/ Play" button if the selected music is the playing music;
+    Change music by clicking the "Pause/ Play" button if the selected music is different than the playing music;
+    Use the slider on the right to adjust volume, if it's too loud or not loud enough please use the windows sound system, 'sndvol' in any cmd;
+}
+
+[Downloader]{
+    First, You have to be connected to internet;
+    Put a youtube link in the link lineEdit and press the 'download' button;
+    If you left the name lineEdit empty, the system will use the youtube title;
+}
+
+[Playlist creator]{
+    Not done yet
+    
+}
+
+[Miscellaneous]{
+    Not done yet
+}
+
+[Parameters]{
+    Not done yet
+    
+}
